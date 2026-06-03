@@ -24,6 +24,7 @@ the data is clean, accurate, and well-structured for analysis.
 Task assignment contains total 8 tasks.
 
 **Exercise 6 Contains total 2 tasks **
+
 Objective :
 This assignment aims to enhance practical skills in using DAX within Power BI to 
 create measures and calculated columns using CALCULATE (), ALL (), ALLEXCEPT () 
